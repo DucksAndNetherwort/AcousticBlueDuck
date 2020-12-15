@@ -1,2 +1,3 @@
 # AcousticBlueDuck
-learn to solder by making a bluetooth speaker system
+Learn to solder by making a bluetooth speaker system.
+
