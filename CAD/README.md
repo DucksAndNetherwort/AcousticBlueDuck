@@ -1,4 +1,8 @@
-*Describe what the files are, or the pattern/structure of the files.*
-
-*But first, decide if you're going to re-arrange the files into sub-directories, eg 3D, 2D, ... .*
-*If you do create sub-directories, consider if the content is self-explantory to a beginner. If not it would be helpful to add a `readme.md`, even if it just says "see the readme.md in the parent directory".*
+Welcome to the CAD directory! In this directory you will find all the design files for this project!  
+  `3D fusion files` contains all the files for *fusion 360*  
+  `3D stl files` contains all the *stl files* (you see where I'm going with this?)  
+  `2D svg files` contains, you guessed it, contains all the *svg files*  
+  
+The fusion files can be opened with fusion 360,  
+The stl files can be loaded into your slicer of choice for 3D printing,  
+And finally, the svg files can be opened with inkscape. Though if you want to laser cut them, they've already been optomised for lazers.  
